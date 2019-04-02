@@ -4,6 +4,7 @@
 import AlbumComponent from './components/Album/Album.vue'
 
 const VueAlbum = {
+  version: '1.0.0',
   install: function (Vue, opt = {}) {
     if (typeof window !== 'undefined' && window.Vue) {
       Vue = window.Vue

@@ -2,6 +2,7 @@
   "name": "vue-pop-album",
   "version": "1.0.0",
   "description": "A Vue.js project",
+  "main": "src/index.js",
   "author": "woods.qiu",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

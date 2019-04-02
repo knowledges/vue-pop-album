@@ -92,7 +92,7 @@ export default {
           "id": "220000197108034417",
           "author": "John Lewis",
           "createTime": "1990-10-15 03:50:31",
-          "image": "http://dummyimage.com/468x60",
+          "image": "http://dummyimage.com/180x150",
           "title": "Ngvfo Jwdkovby Dmnivgvxs Qojdisj Fdge Udixllj"
         },
         {
