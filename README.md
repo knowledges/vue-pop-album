@@ -6,7 +6,7 @@
 git clone https://github.com/knowledges/ManagementMaster.git
 
 # Install dependencies
-npm install vue-pop-album
+npm install vue-pop-album --save
 
 # main.js import
 import Album from 'vue-pop-album'
